@@ -1,0 +1,3 @@
+jsonpickle
+numpy
+opencv-python
