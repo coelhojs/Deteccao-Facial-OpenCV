@@ -1,6 +1,6 @@
 # Deteccao-Facial-OpenCV
 
-(./docs/example.png)
+![alt text](./docs/example.png)
 
 Esta aplicação utiliza o módulo de detecção facial com [Deep Neural Networks do OpenCV](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector) e um modelo pré-treinado com o framework Caffe
 
