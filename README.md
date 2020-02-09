@@ -2,7 +2,7 @@
 
 ![alt text](./docs/example.png)
 
-Esta aplicação utiliza o módulo de detecção facial com [Deep Neural Networks do OpenCV](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector) e um modelo pré-treinado com o framework Caffe
+Esta aplicação utiliza o módulo de detecção facial com [OpenCV e Deep Neural Networks](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector) e um modelo pré-treinado com o framework Caffe.
 
 ## Utilização
 ![alt text](./docs/request_options.png "Opções da requisição")
