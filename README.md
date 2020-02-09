@@ -1,4 +1,4 @@
-# Deteccao-Facial-OpenCV
+# Deteccao Facial com OpenCV e Deep Learning
 
 ![alt text](./docs/example.png)
 
