@@ -1,9 +1,3 @@
-#Comandos para iniciar o servidor:
-#Linux:
-#env FLASK_APP=server.py flask run
-#Windows:
-#set FLASK_APP=server.py python -m flask run
-
 import io
 
 import cv2
@@ -36,7 +30,7 @@ def face_detection_image():
 
         return send_file(
                      file_object,
-                    #  attachment_filename='face_detection.png',
+                     attachment_filename='face_detection.png',
                      mimetype='image/jpg'
                )
 
