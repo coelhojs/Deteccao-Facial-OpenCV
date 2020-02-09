@@ -4,6 +4,10 @@
 
 Esta aplicação utiliza o módulo de detecção facial com [Deep Neural Networks do OpenCV](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector) e um modelo pré-treinado com o framework Caffe
 
+## Instalação
+Com o Python 3 instalado, obtenha as bibliotecas necessárias executando o seguinte comando:
+`pip install -r requirements.txt` 
+
 ## Utilização
 Para executar o servidor Flask, utilize um dos comandos abaixo:
 Linux/Unix:
